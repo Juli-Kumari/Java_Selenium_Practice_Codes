@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4267d155-0cd7-401d-ad0b-75bd4c97f3c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Selenium_Practice/Screenshort_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_02_FactorialOfAnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_03_Fibonacci_Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Selenium_Practice/Test_03_Links_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Selenium_Practice/Test_04_BrokenLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_TestNg_Annotation/TC_01_DataProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_01_SwapTwoNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Selenium_Practice/Screenshort_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Selenium_Practice/selenium_test_01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,18 +56,54 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Screenshort_02.executor": "Run",
+    "Application.TC_01_SwapTwoNumber.executor": "Run",
+    "Application.TC_02_FactorialOfAnumber.executor": "Run",
+    "Application.Test_03_Links_Count.executor": "Run",
+    "Application.Test_04_BrokenLinks.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.TC_01_DataProvider.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/juli/Downloads/Java_Selenium_Practice_Codes"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test_02_Screenshort">
-    <configuration name="Test_01_SendKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_01_SendKeys" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java_Code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test_04_BrokenLinks">
+    <configuration name="TC_01_SwapTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_01_SwapTwoNumber" />
+      <module name="hmp-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_02_FactorialOfAnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_02_FactorialOfAnumber" />
+      <module name="hmp-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_03_Links_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_03_Links_Count" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_02_Screenshort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_02_Screenshort" />
+    <configuration name="Test_04_BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_04_BrokenLinks" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
@@ -80,14 +124,34 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_01_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="hmp-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_TestNg_Annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Java_TestNg_Annotation" />
+      <option name="MAIN_CLASS_NAME" value="Java_TestNg_Annotation.TC_01_DataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test_02_Screenshort" />
-        <item itemvalue="Application.Test_01_SendKeys" />
+        <item itemvalue="Application.Test_04_BrokenLinks" />
+        <item itemvalue="TestNG.TC_01_DataProvider" />
+        <item itemvalue="Application.TC_02_FactorialOfAnumber" />
+        <item itemvalue="Application.TC_01_SwapTwoNumber" />
+        <item itemvalue="Application.Test_03_Links_Count" />
       </list>
     </recent_temporary>
   </component>
