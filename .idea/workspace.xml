@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4267d155-0cd7-401d-ad0b-75bd4c97f3c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_04_SortUnsortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_05_Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_06_MaxMinNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_07_CountCharactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_08_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_10_WaitsInSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_11_GetFirstNonRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Selenium_Practice/Test_05_AlertPopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Selenium_Practice/Test_06_WindowHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Selenium_Practice/Test_04_BrokenLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Selenium_Practice/Test_04_BrokenLinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code/TC_03_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_03_Fibonacci_Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code/TC_04_SortUnsortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_04_SortUnsortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code/TC_08_ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_08_ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code/TC_03_Fibonacci_Series.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code/TC_03_Fibonacci_Series.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code/TC_04_SortUnsortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code/TC_04_SortUnsortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code/TC_08_ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code/TC_08_ReverseString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +58,19 @@
     "Application.Screenshort_02.executor": "Run",
     "Application.TC_01_SwapTwoNumber.executor": "Run",
     "Application.TC_02_FactorialOfAnumber.executor": "Run",
-    "Application.TC_04_SortUnsortedArray.executor": "Run",
+    "Application.TC_03_Fibonacci_Series.executor": "Run",
+    "Application.TC_04_SortUnsortedArray.executor": "Debug",
     "Application.TC_05_Anagram.executor": "Run",
     "Application.TC_06_MaxMinNum.executor": "Run",
     "Application.TC_07_CountCharactor.executor": "Run",
     "Application.TC_08_ReverseString.executor": "Run",
+    "Application.TC_09_Duplicate_Count_String.executor": "Run",
+    "Application.TC_10_WaitsInSelenium.executor": "Run",
+    "Application.TC_11_GetFirstNonRepeatingChar.executor": "Run",
     "Application.Test_03_Links_Count.executor": "Run",
     "Application.Test_04_BrokenLinks.executor": "Run",
+    "Application.Test_05_AlertPopUp.executor": "Run",
+    "Application.Test_06_WindowHandle.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,9 +86,9 @@
       <recent name="Java_Code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TC_09_Duplicate_Count_String">
-    <configuration name="TC_05_Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_05_Anagram" />
+  <component name="RunManager" selected="Application.Test_06_WindowHandle">
+    <configuration name="TC_10_WaitsInSelenium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_10_WaitsInSelenium" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_06_MaxMinNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_06_MaxMinNum" />
+    <configuration name="TC_11_GetFirstNonRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_11_GetFirstNonRepeatingChar" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_07_CountCharactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_07_CountCharactor" />
+    <configuration name="Test_04_BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_04_BrokenLinks" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code.*" />
+          <option name="PATTERN" value="Java_Selenium_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_08_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_08_ReverseString" />
+    <configuration name="Test_05_AlertPopUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_05_AlertPopUp" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code.*" />
+          <option name="PATTERN" value="Java_Selenium_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_09_Duplicate_Count_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_09_Duplicate_Count_String" />
+    <configuration name="Test_06_WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_06_WindowHandle" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code.*" />
+          <option name="PATTERN" value="Java_Selenium_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TC_09_Duplicate_Count_String" />
-        <item itemvalue="Application.TC_05_Anagram" />
-        <item itemvalue="Application.TC_08_ReverseString" />
-        <item itemvalue="Application.TC_07_CountCharactor" />
-        <item itemvalue="Application.TC_06_MaxMinNum" />
+        <item itemvalue="Application.Test_06_WindowHandle" />
+        <item itemvalue="Application.TC_11_GetFirstNonRepeatingChar" />
+        <item itemvalue="Application.TC_10_WaitsInSelenium" />
+        <item itemvalue="Application.Test_04_BrokenLinks" />
+        <item itemvalue="Application.Test_05_AlertPopUp" />
       </list>
     </recent_temporary>
   </component>

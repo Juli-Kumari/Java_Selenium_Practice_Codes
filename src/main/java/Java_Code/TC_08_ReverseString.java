@@ -4,7 +4,7 @@ public class TC_08_ReverseString {
 
     public static void main (String[] args) {
         String str = "I LOVE JAVA";
-        // 1. o/p= "AVAJ EVOL I "
+        // 1. without reverse() method.      o/p= "AVAJ EVOL I "
         String[] words = str.split(" ");
 
         for (int i = words.length - 1; i >= 0; i--) {
@@ -16,6 +16,13 @@ public class TC_08_ReverseString {
 
             System.out.print(" ");
         }
+        // Method 2: with reverse() method.     o/p= "AVAJ EVOL I "
+        for(int i = words.length -1; i >=0; i++){
+            StringBuilder stringBuilder = new StringBuilder();
+            String reverseString = stringBuilder.reverse().toString() + " ";
+            System.out.print(reverseString);
+        }
+
 
         // 2. o/p= "JAVA LOVE I "
         String rev = "";
