@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4267d155-0cd7-401d-ad0b-75bd4c97f3c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_10_WaitsInSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_11_GetFirstNonRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Selenium_Practice/Test_05_AlertPopUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java_Selenium_Practice/Test_06_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionClass/ArrayListDemo_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionClass/HashMapDemo_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionClass/HashSetDemo_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code/TC_03_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_03_Fibonacci_Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code/TC_04_SortUnsortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_04_SortUnsortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Code/TC_08_ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java_Code/TC_08_ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code/TC_03_Fibonacci_Series.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code/TC_03_Fibonacci_Series.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code/TC_04_SortUnsortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code/TC_04_SortUnsortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_Code/TC_08_ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java_Code/TC_08_ReverseString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +48,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ArrayListDemo.executor": "Run",
+    "Application.HashMapDemo_03.executor": "Run",
+    "Application.HashSetDemo.executor": "Run",
+    "Application.HashSetDemo_02.executor": "Run",
     "Application.Screenshort_02.executor": "Run",
     "Application.TC_01_SwapTwoNumber.executor": "Run",
     "Application.TC_02_FactorialOfAnumber.executor": "Run",
@@ -78,7 +75,7 @@
     "TestNG.TC_01_DataProvider.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/juli/Downloads/Java_Selenium_Practice_Codes"
+    "last_opened_file_path": "/home/juli/Downloads/Xalts_QA_Engineer_Assignment"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -86,13 +83,39 @@
       <recent name="Java_Code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test_06_WindowHandle">
-    <configuration name="TC_10_WaitsInSelenium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Code.TC_10_WaitsInSelenium" />
+  <component name="RunManager" selected="Application.HashMapDemo_03">
+    <configuration name="ArrayListDemo_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionClass.ArrayListDemo_01" />
       <module name="hmp-automation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Code.*" />
+          <option name="PATTERN" value="CollectionClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapDemo_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionClass.HashMapDemo_03" />
+      <module name="hmp-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetDemo_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionClass.HashSetDemo_02" />
+      <module name="hmp-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,32 +129,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_Code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test_04_BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_04_BrokenLinks" />
-      <module name="hmp-automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Selenium_Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test_05_AlertPopUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Selenium_Practice.Test_05_AlertPopUp" />
-      <module name="hmp-automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Selenium_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapDemo_03" />
+        <item itemvalue="Application.HashSetDemo_02" />
+        <item itemvalue="Application.ArrayListDemo_01" />
         <item itemvalue="Application.Test_06_WindowHandle" />
         <item itemvalue="Application.TC_11_GetFirstNonRepeatingChar" />
-        <item itemvalue="Application.TC_10_WaitsInSelenium" />
-        <item itemvalue="Application.Test_04_BrokenLinks" />
-        <item itemvalue="Application.Test_05_AlertPopUp" />
       </list>
     </recent_temporary>
   </component>
